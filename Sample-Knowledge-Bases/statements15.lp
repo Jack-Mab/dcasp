@@ -1,0 +1,16 @@
+#const n=15.
+defeasible(a012, a0).
+defeasible(a013, a0).
+defeasible(a011, a0).
+defeasible(a010, a0).
+defeasible(a04, a0).
+defeasible(a03, a0).
+defeasible(a05, a0).
+defeasible(a06, a0).
+defeasible(a01, a0).
+defeasible(a02, a0).
+defeasible(a00, a0).
+defeasible(a014, a0).
+defeasible(a09, a0).
+defeasible(a08, a0).
+defeasible(a07, a0).
